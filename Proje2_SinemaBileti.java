@@ -1,6 +1,6 @@
 Ad Soyad: Nazli Karaagac
 Ogrenci No: 250541105
-Proje: Sinema Bileti
+Proje Adi: Sinema Bileti
 Tarih: 27.11.2025
 
 import java.util.Scanner;
@@ -95,3 +95,4 @@ public class SinemaBileti {
         generateTicketInfo(gun, saat, yas, meslek, filmTuru);
     }
 }
+
